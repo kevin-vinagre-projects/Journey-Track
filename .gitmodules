@@ -1,0 +1,6 @@
+[submodule "documentation"]
+	path = documentation
+	url = git@github.com:kevin-documentation/Journey-Track_Documentation.git
+[submodule "infra"]
+	path = infra
+	url = git@github.com:Kevin-DevOps-Terraform-CICD-DOCKER/Journey-Track_Infra.git
